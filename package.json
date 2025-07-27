@@ -1,9 +1,9 @@
 {
   "name": "webhook-taxici",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "api/webhook.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "api/webhook.js"
   },
   "dependencies": {
     "express": "^4.18.2"
